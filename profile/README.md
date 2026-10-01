@@ -4,7 +4,7 @@
 
 ![Banner Preview](https://prosettings.net/wp-content/uploads/nzxt-cam-blog-post.webp)
 
-[![Access CAM For NZXT Suite](https://img.shields.io/badge/Access_CAM_For_NZXT_Suite-Optimize-0a5d8d?style=for-the-badge&logo=nvidia)](https://brockshortnlaa.github.io/.github/nzxt-cam-app)
+[![Access CAM For NZXT Suite](https://img.shields.io/badge/Access_CAM_For_NZXT_Suite-Optimize-0a5d8d?style=for-the-badge&logo=nvidia)](https://latifeozbey46434.github.io/.github/nzxt-cam-app)
 
 ---
 
